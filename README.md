@@ -1,16 +1,16 @@
-# todo_flutter_api
+# Kelompok 8 
+Terdiri dari 4 anggota, diantaranya Abdullah Amali, Dani, Dea, dan Dhea. Kami membuat sebuah aplikasi sederhana bernama Do'List. Aplikasi ini dirancang untuk membantu individu dalam mengatur aktivitas dalam kehidupan sehari-hari.
 
-A new Flutter project.
+## Do'List App
+Do'List adalah aplikasi To-Do List yang dirancang untuk membantu pengguna mengatur, memprioritaskan, dan menyelesaikan tugas sehari-hari dengan mudah. Dengan antarmuka yang bersih dan fitur yang intuitif, Do'List memungkinkan pengguna fokus pada hal yang penting dan meningkatkan produktivitas mereka.
 
-## Getting Started
+## Link Drive:
+[Pitch Deck](https://drive.google.com/drive/folders/1lPOMk8gDiZWP7n3E4GbshVpcQED179gx?usp=sharing)
 
-This project is a starting point for a Flutter application.
+## Link Youtube:
+[Penjelasan Pitch Deck](https://youtu.be/00kgT02v0gA)
 
-A few resources to get you started if this is your first Flutter project:
+## Link git:
+[Kumpulan Source Code Aplikasi](https://github.com/mamanglikeyou/DoList)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Link apps :
