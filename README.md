@@ -14,4 +14,4 @@ Do'List adalah aplikasi To-Do List yang dirancang untuk membantu pengguna mengat
 [Kumpulan Source Code Aplikasi](https://github.com/mamanglikeyou/DoList)
 
 ## Link apps :
-Masih dalam proses peninjaun dari pihak google dan sudah berlangsung begitu lama dari tanggal 1 januari.
+https://play.google.com/store/apps/details?id=com.dolist.todo_flutter_api
